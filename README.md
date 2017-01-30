@@ -33,6 +33,10 @@ You will need to change your avatar, banner, and about photos. To change these, 
 
 The rest of your page can be edited in the `index.html` file. Copy it to your layouts folder and then make your changes.
 
+### Contact Form
+
+You will need to use an external service for the contact form since static sites cannot handle forms on their own. One such service is [Formspree](https://formspree.io/). Formspree has a free tier.
+
 ## License
 
 This theme is released under the CC BY 3.0 license. For more information, read the [License](https://github.com/sethmacleod/prologue/blob/master/LICENSE.md).
